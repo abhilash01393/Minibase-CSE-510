@@ -1,0 +1,6 @@
+3
+NAME STR
+AGE INT
+WEIGHT INT
+Dennis 18 167
+Andrew 23 300
